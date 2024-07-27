@@ -5,7 +5,6 @@
 
 Funcionalidades:
 1. Login
-![Login](./images/login.png)
 2. Registrarse
 3. Categorías
 4. Carrito
